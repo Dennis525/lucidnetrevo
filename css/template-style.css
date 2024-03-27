@@ -814,7 +814,7 @@ a.background-aqua:link,
 }
 .background-red,
 .primary-color-red .background-primary {
-  background-color: #c81010 !important;
+  background-color: blue !important;
 }
 .background-blue,
 .primary-color-blue .background-primary {
